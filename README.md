@@ -1,2 +1,2 @@
 # lalith123
-i am new to gituo
+i am new to gitup
